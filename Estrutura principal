@@ -1,9 +1,0 @@
-A estrutura principal do sistema é composta por:
-
-main.py → responsável pelo controle geral
-crud_db.py → responsável pelo banco de dados
-home.py → página inicial
-clientes.py → gerenciamento de clientes
-produtos.py → gerenciamento de produtos
-vendas.py → registro de vendas
-relatorios.py → análise de dados”
